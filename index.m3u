@@ -2007,84 +2007,48 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/29564
 
 ######BEINSPORTS#######
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="BEIN SPORTS" ,BEINSPORTS 1
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165105
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="BEIN SPORTS" ,BEINSPORTS 3
-http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298506
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS.png" group-title="BEIN SPORTS" ,beIN Sports HD Unifi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-05/bein-sports2.png" group-title="BEIN SPORTS" ,beIN Sports HD 2 Unifi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS3.png" group-title="BEIN SPORTS" ,beIN Sports HD 3 Unifi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-01/beinsports4.png" group-title="BEIN SPORTS" ,beIN Sports HD 4 Unifi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
-https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
-
-
-
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports_🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465272
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 3 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465273
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 4 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465274
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 5 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465275
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 6 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465276
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 7 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465277
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 8 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465278
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports n 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465279
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS", beIN Sports 🇺🇲
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465280
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="|US| BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| BEIN SPORTS
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141695.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| beIN Sports 2
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141696.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| beIN Sports 3
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141697.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|US| BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| BEIN SPORTS 4
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141698.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|US| BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| BEIN SPORTS 5
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141699.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|US| Bein Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| Bein Sports 6
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141700.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|US| Bein Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| Bein Sports 7
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141701.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|US| Bein Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS",|US| Bein Sports 8
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141702.ts
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS",  beIN Sports 🇦🇺
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/480027
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS",  beIN Sports 1 🇦🇺
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/480028
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS",  beIN Sports 2 🇦🇺
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/480029
-#EXTINF:-1,tvg-logo="https://codeberg.org/honktv/Pro/raw/branch/main/tv/20240511_025114.png" group-title="BEIN SPORTS",  beIN Sports 3 🇦🇺
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/480030
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605281
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605282
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 50fps" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 2 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605283
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605284
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 50fps" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 3 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605285
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 4
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605246
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 5
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605244
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 50fps" tvg-logo="https://clipground.com/images/BEIN SPORTS-png-14.png" group-title="BEIN SPORTS", beIN Sports 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605286
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 1 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605221
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 2 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605222
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 English" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 3 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605223
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 1 French
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605224
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 French" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 2 French
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605225
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 5
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605226
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 4
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605227
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports Premium 1
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605228
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports Premium 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605229
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports Premium 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605230
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 1
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605231
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605232
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://i.pinimg.com/originals/50/d7/3e/50d73e3a71b2a65b49c8c5d1f57c1eb5.png" group-title="BEIN SPORTS", beIN Sports 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605233
 
 
 
@@ -2708,90 +2672,11 @@ http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31037.ts
 http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31038.ts
 #EXTINF:-1 tvg-id="" tvg-name="  BT SPORT EXTRA 3" tvg-logo="http://one-iptv.com/imageslogo/BTSportX3.uk.png" group-title="BT SPORT",  BT SPORT EXTRA 3
 http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31039.ts
-#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="  BT SPORT EXTRA 4" tvg-logo=" http://one-iptv.com/imageslogo/BTSportX4.uk.png" group-title="BT SPORT",  BT SPORT EXTRA 4
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31040.ts
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORTS ESPN FHD" tvg-logo="" group-title="BT SPORT",  BT SPORTS ESPN FHD
 http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/131012.ts
 
 
 
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="|TR| Spor Smart 1 HD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="TURKEY SPORTS",|TR| Spor Smart 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149542.ts
-#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="|TR| Sport Smart 2 HD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="TURKEY SPORTS",|TR| Sport Smart 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149543.ts
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="|TR| TRT Spor 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TRT_Spor_logo_%282021%29.svg/1280px-TRT_Spor_logo_%282021%29.svg.png" group-title="TURKEY SPORTS",|TR| TRT Spor 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149546.ts
-#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="|TR| TRT Spor 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TRT_Spor_2_kurumsal_logo_%282019-2021%29.png" group-title="TURKEY SPORTS",|TR| TRT Spor 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149547.ts
-#EXTINF:-1 tvg-id="TrtSporYildiz.tr" tvg-name="|TR| TRT Spor Yildiz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TURKEY SPORTS",|TR| TRT Spor Yildiz HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149548.ts
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="|TR| A Spor HD" tvg-logo="http://i.tmgrup.com.tr/aSpor/i/logo.png" group-title="TURKEY SPORTS",|TR| A Spor HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149549.ts
-#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="|TR| EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="TURKEY SPORTS",|TR| EuroSport 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149550.ts
-#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="|TR| EuroSport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="TURKEY SPORTS",|TR| EuroSport 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149551.ts
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="|TR| GS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png" group-title="TURKEY SPORTS",|TR| GS TV
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149552.ts
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="|TR| FB TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Fenerbahce_TV_Logo.jpg" group-title="TURKEY SPORTS",|TR| FB TV HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149553.ts
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="|TR| Sports TV" tvg-logo="https://www.sportsnet.com.tr/img/logo_sportstv_large.png" group-title="TURKEY SPORTS",|TR| Sports TV
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149554.ts
-#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY SPORTS",|TR| EXXEN SPORT 1
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149555.ts
-#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY SPORTS",|TR| EXXEN SPORT 2
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149556.ts
-#EXTINF:-1 tvg-id="" tvg-name="|TR| EXXEN SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TURKEY SPORTS",|TR| EXXEN SPORT 3
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149557.ts
-
-
-
-
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149526.ts
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 1 HD Backup
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149527.ts
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 1 4K
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149528.ts
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="|TR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149529.ts
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="|TR| BeIN Sports 2 HD Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 2 HD Backup
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149530.ts
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="|TR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 3 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149531.ts
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="|TR| BeIN Sports 3 HD Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 3 HD Backup
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149532.ts
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="|TR| BeIN Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 4 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149533.ts
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="|TR| BeIN Sports 4 HD Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="TURKEY SPORTS",|TR| BeIN Sports 4 HD Backup
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149534.ts
-#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="|TR| BeIN Sports Max 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="TURKEY SPORTS",|TR| BeIN Sports Max 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149535.ts
-#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="|TR| BeIN Sports Max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1200px-Logo_bein_sports_max_2.png" group-title="TURKEY SPORTS",|TR| BeIN Sports Max 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149536.ts
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="|TR| BeIN Sports Haber HD" tvg-logo="http://contentlibrary.digiturk.com.tr/News/2305/Image/haber_kanali_acildi_ayrinti.png" group-title="TURKEY SPORTS",|TR| BeIN Sports Haber HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/149537.ts
-
-
-
-#EXTINF:-1 tvg-id="CosmoteHistory.gr" tvg-name="|.GR.| COSMOTE HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/9/92/Cosmote_Hisory.jpg" group-title="GREECE SPORTS",|.GR.| COSMOTE HISTORY HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70101.ts
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-name="|.GR.| COSMOTE SPORT 1 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=111095123&t=1624972759373" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70102.ts
-#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-name="|.GR.| COSMOTE SPORT 2 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=111095087&t=1624972757217" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70103.ts
-#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-name="|.GR.| COSMOTE SPORT 3 FHD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=111095111&t=1624972758713" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 3 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70104.ts
-#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-name="|.GR.| COSMOTE SPORT 4 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=111095209&t=1624973255468" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 4 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70105.ts
-#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-name="|.GR.| COSMOTE SPORT 5 HD" tvg-logo="https://tvepg.eu/img/greece/logo/cosmote_sport_5.png" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 5 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70106.ts
-#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-name="|.GR.| COSMOTE SPORT 6 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297273&t=1535101456557" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 6 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70107.ts
-#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-name="|.GR.| COSMOTE SPORT 7 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708057&t=1524412296969" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 7 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70108.ts
-#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-name="|.GR.| COSMOTE SPORT 8 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708082&t=1524412298596" group-title="GREECE SPORTS",|.GR.| COSMOTE SPORT 8 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70109.ts
 
 
 
