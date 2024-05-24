@@ -1271,6 +1271,78 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI Group",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
 
+#########VNL#########
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc9.m3u8
+
+
+
+######BEINSPORTS#######
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605281
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605282
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605283
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605284
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605285
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 4
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605246
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 5
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605244
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 50fps
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605286
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605221
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605222
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3 English
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605223
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 French" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1 French
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605224
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 French" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 French
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605225
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 5
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605226
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 4
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605227
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 1" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 1
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605228
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605229
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605230
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605231
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605232
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605233
+
+
+
 
 
 
@@ -2005,137 +2077,8 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/29565
 #EXTINF:-1 group-title="Sony Sports" tvg-logo="https://lo1.in/MALAY/sny.png" ,MY| SONY TEN 3
 http://mytv-extra.com:80/t12mgxyb335/9832948789/29564
 
-######BEINSPORTS#######
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605281
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605282
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 50fps
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605283
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605284
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3 50fps
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605285
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 4
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605246
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 5
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605244
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 50fps" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 50fps
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605286
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1 English
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605221
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 English
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605222
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3 English" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3 English
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605223
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1 French" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1 French
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605224
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2 French" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2 French
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605225
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 5
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605226
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 4
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605227
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 1" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 1
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605228
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 2
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605229
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Premium 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports Premium 3
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605230
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 1
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605231
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 2
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605232
-#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/ikitv/project/main/20240525_033021.png" group-title="BEIN SPORTS", beIN Sports 3
-http://globalstreamz.xyz:3050/Smblackwel46/8646267297/605233
-
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name=" ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141646.ts
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name=" ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN 2
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141647.ts
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name=" ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN DEPORTES
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141648.ts
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name=" ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN U
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141650.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN + 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN + 1
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141651.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 2
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141652.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 3
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141653.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 4
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141654.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 5
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141655.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 6
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141656.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ESPN+ 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN", ESPN+ 7
-http://tvone.millenium-ott.com:25443/live/teleclub32/SZPE00YTGB/141657.ts
-
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN 1 FHD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/161916
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN 2 FHD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/161917
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,* ESPN HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/16783
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,* ESPN 2 FHD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/6319
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN FHD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/3532
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN U HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/13938
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN News FHD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/10710
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN Sec Network HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/15286
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN U
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/195443
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN Deportes HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/195506
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN News HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/195503
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" , ESPN U College Sports HD
-http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/195444
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="|US| ESPN DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN DEPORTES
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141648.ts
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="|US| ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN U
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141650.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN + 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN + 1
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141651.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 2
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141652.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 3
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141653.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 4
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141654.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 5
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141655.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 6
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141656.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+ 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/2560px-ESPN_Plus.svg.png" group-title="ESPN",|US| ESPN+ 7
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/141657.ts
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465484
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN 2
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465485
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN 3
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465486
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN News
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465487
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPNU
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/465488
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/466676
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN 2
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/466677
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN 3
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/466678
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" , group-title="ESPN" ,ESPN 4
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/466679
 
 
 
@@ -2216,27 +2159,6 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
 
 
-
-#########VNL#########
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 1
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc9.m3u8
 
 
 
@@ -2500,88 +2422,6 @@ https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/
 
 
 
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="  EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport.it.png" group-title="EUROSPORT",  EUROSPORT 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31057.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="  EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport.it.png" group-title="EUROSPORT",  EUROSPORT 1 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30890.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.es.png" group-title="EUROSPORT",  EUROSPORT 2 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31058.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="  EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.es.png" group-title="EUROSPORT",  EUROSPORT 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30891.ts
-#EXTINF:-1 tvg-id="Eurosport360.fr" tvg-name="  EUROSPORT 360 FHD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/Eurosport360Logo.png/revision/latest?cb=20160505032906" group-title="EUROSPORT",  EUROSPORT 360 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/108539.ts
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="  EUROSPORT 1" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="EUROSPORT",  EUROSPORT 1
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/15172.ts
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="  EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="EUROSPORT",|FR.RP| EUROSPORT 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/9281.ts
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="  EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="EUROSPORT",  EUROSPORT 1 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/9549.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 1 FHD BKP" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png" group-title="EUROSPORT",  EUROSPORT 1 FHD BKP
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/51105.ts
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="  EUROSPORT 2" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="EUROSPORT",  EUROSPORT 2
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/9279.ts
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR.RP| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="EUROSPORT",|FR.RP| EUROSPORT 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/9280.ts
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="  EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="EUROSPORT",  EUROSPORT 2 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/9548.ts
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="  EUROSPORT 2 FHD BKP" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png" group-title="EUROSPORT",  EUROSPORT 2 FHD BKP
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/51106.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 1" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 1
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139080.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 1 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139081.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 1 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 1 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139082.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 2" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 2
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139083.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 2 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139084.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 2 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 2 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139085.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 3" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 3
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139086.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 3 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 3 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139087.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 3 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 3 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139088.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 4" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 4
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139089.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 4 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 4 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139090.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 4 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 4 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139091.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 5" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 5
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139092.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 5 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 5 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139093.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 5 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 5 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139094.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 6" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 6
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139095.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 6 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 6 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139096.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 6 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 6 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139097.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 7" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 7
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139098.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 7 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 7 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139099.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 7 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 7 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139100.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 8" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 8
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139101.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 8 HD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 8 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139102.ts
-#EXTINF:-1 tvg-id="" tvg-name="  EUROSPORT 360 8 FHD" tvg-logo="" group-title="EUROSPORT",  EUROSPORT 360 8 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/139103.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.RS.| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_13B7_C95_3_EB0000_0_0_0.png" group-title="EUROSPORT",|.RS.| EUROSPORT 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/116669.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.RS.| EUROSPORT 2 HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_1_0_19_13B1_C95_3_EB0000_0_0_0.png" group-title="EUROSPORT",|.RS.| EUROSPORT 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/116671.ts
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="  EUROSPORT 1 " tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.es.png" group-title="EUROSPORT",  EUROSPORT 1 
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/143130.ts
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="  EUROSPORT 1  HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.es.png" group-title="EUROSPORT",  EUROSPORT 1  HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/143131.ts
 
 
 
