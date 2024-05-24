@@ -3705,29 +3705,30 @@ http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/70492.ts
            
 
 
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D7A5_900_2_11A0000_0_0_0.png" group-title="BT SPORT",  BT SPORT 1 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30904.ts
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="  BT SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport1.uk.png" group-title="BT SPORT",  BT SPORT 1 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30989.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORT 2 HD" tvg-logo=" http://one-iptv.com/imageslogo/BTSport2.uk.png " group-title="BT SPORT",  BT SPORT 2 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30905.ts
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="  BT SPORT 2 FHD" tvg-logo=" http://one-iptv.com/imageslogo/BTSport2.uk.png seize : 15459" group-title="BT SPORT",  BT SPORT 2 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31044.ts
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="  BT SPORT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/BTSport3.uk.png" group-title="BT SPORT",  BT SPORT 3 FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31027.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport3.uk.png" group-title="BT SPORT",  BT SPORT 3 HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31000.ts
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="  BT SPORT ESPN HD" tvg-logo="http://one-iptv.com/imageslogo/BTSportESPN.uk.png" group-title="BT SPORT",  BT SPORT ESPN HD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/30906.ts
-#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="  BT SPORT EXTRA 1" tvg-logo="http://one-iptv.com/imageslogo/BTSportX1.uk.png" group-title="BT SPORT",  BT SPORT EXTRA 1
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31037.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORT EXTRA 2 " tvg-logo=" http://one-iptv.com/imageslogo/BTSportX2.uk.png" group-title="BT SPORT",  BT SPORT EXTRA 2 
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31038.ts
-#EXTINF:-1 tvg-id="" tvg-name="  BT SPORT EXTRA 3" tvg-logo="http://one-iptv.com/imageslogo/BTSportX3.uk.png" group-title="BT SPORT",  BT SPORT EXTRA 3
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/31039.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="  BT SPORTS ESPN FHD" tvg-logo="" group-title="BT SPORT",  BT SPORTS ESPN FHD
-http://tvpro.vprotv.com:25443/live/V5hOqfRXstbt/j4wPHTbYzS/131012.ts
-
+#EXTINF:-1 tvg-id="OptusSport1.au" tvg-name="AU Optus 1 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 1 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376362
+#EXTINF:-1 tvg-id="OptusSport2.au" tvg-name="AU Optus 2 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 2 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376363
+#EXTINF:-1 tvg-id="OptusSport3.au" tvg-name="AU Optus 3 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 3 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376364
+#EXTINF:-1 tvg-id="OptusSport4.au" tvg-name="AU Optus 4  HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 4  HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376365
+#EXTINF:-1 tvg-id="OptusSport5.au" tvg-name="AU Optus 5  HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 5  HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376366
+#EXTINF:-1 tvg-id="OptusSport6.au" tvg-name="AU Optus 6 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 6 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376367
+#EXTINF:-1 tvg-id="OptusSport7.au" tvg-name="AU Optus 7 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 7 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376368
+#EXTINF:-1 tvg-id="OptusSport8.au" tvg-name="AU Optus 8 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 8 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376369
+#EXTINF:-1 tvg-id="OptusSport9.au" tvg-name="AU Optus 9 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 9 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376370
+#EXTINF:-1 tvg-id="OptusSport10.au" tvg-name="AU Optus 10 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 10 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376371
+#EXTINF:-1 tvg-id="OptusSport11.au" tvg-name="AU Optus 11 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 11 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376372
+#EXTINF:-1 tvg-id="OptusSport12.au" tvg-name="AU Optus 12 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="OPTUS SPORTS",AU Optus 12 HD (D)
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/376373
 
 #############################
 #############################
