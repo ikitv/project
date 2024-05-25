@@ -25,16 +25,21 @@ http://301090394118792939.ofx508.xyz:80/live/ja614554/sgmqJktRbrwc/792939.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/05/Manchester-City-vs-Manchester-United.jpg?resize=1140%2C570&ssl=1" group-title="🟢 LIVE" , 21:00 FA CUP : MAN. UTD v MAN. CITY 
 http://jgas.in:8880/6990961SZZZ/eSHMaFmyLwUS/32413   
 
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240524_Bali-United-vs-Borneo-FC-Samarinda.jpg" group-title="🟢 LIVE" , 19:00 BRI LIGA 1 : BALI UNITED v BORNEO FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri11.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240524_Bali-United-vs-Borneo-FC-Samarinda.jpg" group-title="🟢 LIVE" , 19:00 BRI LIGA 1 : BALI UNITED v BORNEO FC
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240524_Bali-United-vs-Borneo-FC-Samarinda.jpg" group-title="🟢 LIVE" , 19:00 BRI LIGA 1 : BALI UNITED v BORNEO FC
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri1.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml". tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240524_Bali-United-vs-Borneo-FC-Samarinda.jpg" group-title="🟢 LIVE" , 19:00 BRI LIGA 1 : BALI UNITED v BORNEO FC
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240524_Bali-United-vs-Borneo-FC-Samarinda.jpg" group-title="🟢 LIVE" , 19:00 BRI LIGA 1 : BALI UNITED v BORNEO FC
-http://sebasy.dyndns.tv:8000/Josesanche/6KrcqUG5ab/472228
-
-
 
             ############
             ############
