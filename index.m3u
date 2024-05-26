@@ -299,6 +299,15 @@ https://www.dropbox.com/scl/fi/zwpldlwofxe9er45zdr0y/donate.mp4?rlkey=0ko5yj7xb6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV INDO" ,  ANTV
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV INDO" ,  ANTV [HD]
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRFdNTPDSjUtBX7F1wcxdJMg
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/moji.png" group-title="TV INDO" ,  MOJI [HD]
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRObO5MWvfa1FnZHk_9DMUuY
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/Indosiar.png" group-title="TV INDO" ,  INDOSIAR #2
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPwlYfGHtSq5_13vQ9nRLMc
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/btv.png" group-title="TV INDO" ,  BTV
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/btv.m3u8
 
