@@ -4642,4 +4642,7 @@ http://abcnew.site:8880/12mmk180105/81462658/1698
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="GOLF | FIGHT", UNIFI SPORTS 🇲🇾
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
- 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="  Eurosport 1 HD" tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/Eurosport_1.png" group-title="EUROSPORT ",  Eurosport 1 HD
+http://tkosportz.live:25461/bsams1962@gmail.com/3022425576/55910
