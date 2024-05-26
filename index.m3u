@@ -316,7 +316,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/Indosiar.png" group-title="TV INDO" ,  INDOSIAR
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPwlYfGHtSq5_13vQ9nRLMc
+https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri11.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/inews.png" group-title="TV INDO" ,  INEWS 
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/inews.m3u8
