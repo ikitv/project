@@ -358,6 +358,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rcti.png" group-title="TV INDO" ,  RCTI
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/rcti.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rcti.png" group-title="TV INDO" ,  RCTI-HD
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGuWXDs2_1WdHQqUZZ5fr6Q
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV INDO" ,  RTV
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/rtv.m3u8
 
@@ -445,6 +449,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV INDO 02",RCTI HD
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV INDO 02",RCTI -HD
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGuWXDs2_1WdHQqUZZ5fr6Q
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
